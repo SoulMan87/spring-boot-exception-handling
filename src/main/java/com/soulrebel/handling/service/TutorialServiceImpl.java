@@ -1,4 +1,4 @@
-package com.soulrebel.handling.servive;
+package com.soulrebel.handling.service;
 
 import com.soulrebel.handling.exception.ResourceNotFoundException;
 import com.soulrebel.handling.model.Tutorial;

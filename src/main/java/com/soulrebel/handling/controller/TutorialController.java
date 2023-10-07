@@ -1,8 +1,7 @@
 package com.soulrebel.handling.controller;
 
 import com.soulrebel.handling.model.Tutorial;
-import com.soulrebel.handling.servive.TutorialService;
-import io.swagger.v3.oas.annotations.responses.ApiResponses;
+import com.soulrebel.handling.service.TutorialService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
