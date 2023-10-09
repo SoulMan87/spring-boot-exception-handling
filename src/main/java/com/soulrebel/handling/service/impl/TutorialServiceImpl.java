@@ -1,8 +1,9 @@
-package com.soulrebel.handling.service;
+package com.soulrebel.handling.service.impl;
 
 import com.soulrebel.handling.exception.ResourceNotFoundException;
 import com.soulrebel.handling.model.Tutorial;
 import com.soulrebel.handling.repository.TutorialRepository;
+import com.soulrebel.handling.service.TutorialService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
