@@ -24,16 +24,14 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/SoulMan87/spring-boot-exception-handling.git
-
+```
 2. Build and run the [Spring Boot](https://spring.io/projects/spring-boot) application:
 
-```bash
-
+  ```bash
 ./gradlew bootRun
-
-```
+  ```
 3. Access [Swagger UI](https://swagger.io/tools/swagger-ui/):
 
 Open your web browser and navigate to http://localhost:8080/swagger-ui.html. Here, you can explore and test the API endpoints.
